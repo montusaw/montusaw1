@@ -3,6 +3,187 @@
 }
 .menubg{
     width: 100%;
-    height: 550px;
+    height: 520px;
     background:url(images/bg_img.jpg);
+}
+.row1{
+    width: 1000px;
+    height: 120px;
+    margin:auto;
+
+}
+.row1c1{
+    width: 250px;
+    margin-top: 15px;
+    float: left;
+}
+.row1c2{
+    float: right;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 21px;
+    font-weight: bold;
+    color:#09C;
+    margin-right: 5px;
+}
+.clear{
+    clear: both;
+}
+
+.row2{
+    width: 1000px;
+    background: url(images/menu_rept.jpg);
+    height: 49px;
+    margin: auto;
+    border-radius: 10px;
+}
+.row2item{
+    float: left;
+    margin: 19px;
+    margin-left: 25px;
+}
+.row3{
+    margin: auto;
+    width: 1000px;
+}
+
+.middle{
+    width: 100%;
+    height: 690px;
+    
+}
+.middler1{
+    width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.middler2{
+    width: 1000px;
+    margin: auto;
+}
+.contain{
+    width: 330px;
+    margin-top: 10px;
+    float: left;
+}
+.middlecontain{
+    color: #084986;
+    margin: 10px;
+    padding-left: 20px; 
+
+}
+.middleimg{
+    float: left;
+    margin-left: 10px;
+    height: 80px;
+ 
+}
+.middlep{
+    font-size: 14px;
+    width: 305px; 
+    line-height: 16px;  
+    margin-left: 10px;
+}
+.hrline{
+    width: 1000px;
+    margin: 20px auto;
+    border: 1px solid #084a87;
+   
+}
+.middler3{
+    width: 1000px;
+    height: 233px;
+    margin: 10px auto;
+    font-size: 14px;
+    background:url(images/midback.png) no-repeat;
+}
+.middleimg{
+    padding-right: 4%;
+    width: 21%;
+}
+.middler3c1{
+    padding-top: 9px;
+    height: 21%;
+}
+.middlec1contain{
+    width: 310px;
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 10px;
+    float: left;
+}
+.middlepr{
+    padding-top: 10px;
+    
+}
+.middlerow4{
+    width: 1000px;
+    
+}
+.domain{
+    width: 33%;
+}
+.domainimg{
+    float: left;
+    width: 20%;
+    margin-top: 6%;
+}
+.domaininfo{
+    width: 70%;
+    float: left;
+    font-size: 14px;
+}
+.client{
+    width: 66%;
+    float: left;
+}
+.footerpart{
+    width: 100%;
+    height: 370px;
+    background: url(images/footer.png);
+
+}
+.footerrow{
+    width: 1000px;
+    padding-top: 20px;
+    margin: auto;
+    
+}
+.footerpartc1{
+    width: 33%;
+    float: left;
+    font-size: 14px;
+}
+.footerdots{
+    float: left;
+}
+.footercontain{
+    padding-left: 5%;
+    padding-top: 1%;
+    color: #084a87;
+}
+.location{
+    padding-left: 55%;
+}
+.footerpr{
+    text-align: right;
+    margin: 5%;
+    line-height: 130%;
+    color: #084a87;
+}
+.footerline{
+    width: 1000px;
+    margin: auto;
+}
+.footericon{
+    width: 450px;
+    margin: auto;
+    float: right;   
+
+}
+.iconimg{
+    float: left;
+    padding-top: 2%;
+    
 }
